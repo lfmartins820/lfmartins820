@@ -1,4 +1,4 @@
-# 👩‍💻 Luis Felipe Martins
+# 👨‍💻 Luis Felipe Martins
 
 ### Desenvolvedor Python & Web
 
