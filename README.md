@@ -11,7 +11,7 @@ Tenho forte foco em desenvolvimento web e automação, trabalhando principalment
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto
 
 ### 🛠️ [usaservicos.com.br](https://usaservicos.com.br)
 Idealizei, desenvolvi e gerencio a plataforma **usaservicos.com.br**, um ecossistema digital criado para conectar prestadores de serviços a clientes de forma ágil, segura e intuitiva. 
